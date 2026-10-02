@@ -1,0 +1,15 @@
+/Users/porter.rasmussen/mycoderepositories/lab5Mastermind/bin/Debug/net10.0/lab5Mastermind
+/Users/porter.rasmussen/mycoderepositories/lab5Mastermind/bin/Debug/net10.0/lab5Mastermind.deps.json
+/Users/porter.rasmussen/mycoderepositories/lab5Mastermind/bin/Debug/net10.0/lab5Mastermind.runtimeconfig.json
+/Users/porter.rasmussen/mycoderepositories/lab5Mastermind/bin/Debug/net10.0/lab5Mastermind.dll
+/Users/porter.rasmussen/mycoderepositories/lab5Mastermind/bin/Debug/net10.0/lab5Mastermind.pdb
+/Users/porter.rasmussen/mycoderepositories/lab5Mastermind/obj/Debug/net10.0/lab5Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+/Users/porter.rasmussen/mycoderepositories/lab5Mastermind/obj/Debug/net10.0/lab5Mastermind.AssemblyInfoInputs.cache
+/Users/porter.rasmussen/mycoderepositories/lab5Mastermind/obj/Debug/net10.0/lab5Mastermind.AssemblyInfo.cs
+/Users/porter.rasmussen/mycoderepositories/lab5Mastermind/obj/Debug/net10.0/lab5Mastermind.csproj.CoreCompileInputs.cache
+/Users/porter.rasmussen/mycoderepositories/lab5Mastermind/obj/Debug/net10.0/lab5Mastermind.sourcelink.json
+/Users/porter.rasmussen/mycoderepositories/lab5Mastermind/obj/Debug/net10.0/lab5Mastermind.dll
+/Users/porter.rasmussen/mycoderepositories/lab5Mastermind/obj/Debug/net10.0/refint/lab5Mastermind.dll
+/Users/porter.rasmussen/mycoderepositories/lab5Mastermind/obj/Debug/net10.0/lab5Mastermind.pdb
+/Users/porter.rasmussen/mycoderepositories/lab5Mastermind/obj/Debug/net10.0/lab5Mastermind.genruntimeconfig.cache
+/Users/porter.rasmussen/mycoderepositories/lab5Mastermind/obj/Debug/net10.0/ref/lab5Mastermind.dll
