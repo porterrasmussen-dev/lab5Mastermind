@@ -14,6 +14,7 @@ char randomLetter2 = alphabet[Random.Shared.Next(alphabet.Length)];
 char randomLetter3 = alphabet[Random.Shared.Next(alphabet.Length)];
 char randomLetter4 = alphabet[Random.Shared.Next(alphabet.Length)];
 
+//Make sure there are no duplicate letters in the secret.
 while (randomLetter1==randomLetter2)
 {
     randomLetter2 = alphabet[Random.Shared.Next(alphabet.Length)];
@@ -39,6 +40,7 @@ while (randomLetter3==randomLetter4)
     randomLetter4 = alphabet[Random.Shared.Next(alphabet.Length)];
 }
 
+//explain the rules and build the secret combination
 string secretMessage = "" + randomLetter1 + randomLetter2 + randomLetter3 + randomLetter4;
 Console.WriteLine("I have picked a set of 4 random letters and arranged them in a random order. It is your job to guess the secret combination.");
 Console.WriteLine("The secret combination will not always be a real word. In fact, it usually isn't a real word. It is different every time you play again. Letters should never repeat.");
@@ -55,6 +57,8 @@ while (guessedRight==false)
     Console.WriteLine($"{userName}, please guess a combination of 4 letters");
     string userGuess = Console.ReadLine().ToUpper();
     char [] characters = userGuess.ToCharArray();
+
+    //Checking the guess
     if (userGuess == secretMessage)
     {
         guessedRight = true;
@@ -112,6 +116,8 @@ while (guessedRight==false)
     }
     numberOfGuesses ++;
 }
+
+//correct answer finishing screen.
 Console.Clear();
 Console.WriteLine($"{secretMessage} is the word. Good job! You guessed the word.");
 Console.WriteLine($"It took you {numberOfGuesses} guesses to get it right.");
