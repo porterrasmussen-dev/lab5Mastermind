@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab5Mastermind")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eddd468dfdf5c2e9825c24c85fd164f10a77482c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33fe9493f03eabd3153d4a580682a24518b3bc30")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab5Mastermind")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab5Mastermind")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
